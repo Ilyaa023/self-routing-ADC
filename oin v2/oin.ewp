@@ -286,7 +286,7 @@
                 </option>
                 <option>
                     <name>IccLang</name>
-                    <state>0</state>
+                    <state>2</state>
                 </option>
                 <option>
                     <name>IccCDialect</name>
@@ -606,7 +606,7 @@
                 </option>
                 <option>
                     <name>IlinkIcfFile</name>
-                    <state>$TOOLKIT_DIR$\config\lnkstm8.icf</state>
+                    <state>$TOOLKIT_DIR$\config\lnkstm8s003f3.icf</state>
                 </option>
                 <option>
                     <name>IlinkIcfFileSlave</name>

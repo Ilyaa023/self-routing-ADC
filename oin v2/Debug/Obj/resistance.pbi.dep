@@ -1,0 +1,5 @@
+resistance.pbi: \
+  E:\Sources\GitHub\ projects\self-routing-ADC\oin\ v2\resistance.c \
+  E:\Sources\GitHub\ projects\self-routing-ADC\oin\ v2/main.h \
+  E:\apps\IAR\ EW\stm8\inc\iostm8s003f3.h \
+  E:\apps\IAR\ EW\stm8\inc/io_macros.h

@@ -1,0 +1,3 @@
+main.pbi: E:\Sources\GitHub\ projects\self-routing-ADC\test\main.c \
+  E:\apps\IAR\ EW\stm8\inc\iostm8s003f3.h \
+  E:\apps\IAR\ EW\stm8\inc/io_macros.h
