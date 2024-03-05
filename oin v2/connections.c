@@ -1,4 +1,4 @@
-#include "oin_basic_interface.h"
+#include "main.h"
 
 void CLK_Init(){
 	//fCPU = 16 MHz

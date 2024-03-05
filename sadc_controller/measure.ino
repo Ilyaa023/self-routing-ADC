@@ -1,34 +1,41 @@
+#include "sadc_controller.h"
+
+extern OIN oins[10];
+
 //Runtime test
 void measure(){
-  // resetOINs();
+  resetOINs();
 
-  for(int i = 0; i < ARRAY_LENGTH; i++){
-    bool isNotLastOin = i < ARRAY_LENGTH - 1;  
-    delay(delayMeasure);
+  for(int i = 0; i < numOfOins; i++){
+    //while (digitalRead(12) != LOW);    
+    bool isNotLastOin = i < numOfOins - 1;  
+    delay(DELAY_MEASURE);
       
     if (digitalRead(PIN_COMPORATOR) == LOW)
-      command[i] &= COM_GROUND;
+      oins[i].commands[0] &= ~COM_POWER_MASK;
       // command[i] |= COM_POWER;
-    Serial.write(oinArray[i]);
-    Serial.write(command[i]);
+    Serial.write(OIN_REQUEST);
+    Serial.write(oins[i].ID);
+    Serial.write(oins[i].commands[0]);
     //delay(delayMeasure);
     
     if (isNotLastOin) {
-      // command[i + 1] |= COM_POWER;
+      oins[i + 1].commands[0] |= COM_POWER_MASK;
       // command[i] &= COM_GROUND;
-      Serial.write(oinArray[i + 1]);
-      Serial.write(command[i + 1]);
+      Serial.write(OIN_REQUEST);
+      Serial.write(oins[i + 1].ID);
+      Serial.write(oins[i + 1].commands[0]);
     }
   }
-  delay(delayMeasure);
+  delay(DELAY_MEASURE);
 
   setMeasured();
 }
 
 //Without tests
 void setMeasured(){
-  for (int i = 0; i < ARRAY_LENGTH; i++){
-    if (bitRead(command[i], 0))
+  for (int i = 0; i < numOfOins; i++){
+    if (bitRead(oins[i].commands[0], 0))
       measured[i] = '1';
     else
       measured[i] = '0';
@@ -53,13 +60,14 @@ void sendReport(){
 }
 //With tests
 void resetOINs(){
-  command[0] = OIN_HIGH;
-  command[ARRAY_LENGTH - 1] = OIN_LOW;
-  for(int i = 1; i < ARRAY_LENGTH - 1; i++)
-    command[i] = 0;//OIN_MIDDLE;      
-  for(int i = 0; i < ARRAY_LENGTH; i++){
-    Serial.write(oinArray[i]);
-    Serial.write(command[i]);
+  oins[0].commands[0] = OIN_HIGH;
+  oins[numOfOins - 1].commands[0] = OIN_LOW;
+  for(int i = 1; i < numOfOins - 1; i++)
+    oins[i].commands[0] = OIN_MIDDLE;//OIN_MIDDLE;      
+  for(int i = 0; i < numOfOins; i++){
+    Serial.write(OIN_REQUEST);
+    Serial.write(oins[i].ID);
+    Serial.write(oins[i].commands[0]);
   }
   measured = "00000000";
 }

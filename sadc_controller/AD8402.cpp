@@ -1,15 +1,21 @@
 #include "AD8402.h"
 
-#ifndef TARGET_ARDUINO
-    void digitalWrite (unsigned char pin; unsigned char state){
-        pin = state;
-    }
-    unsigned char bitRead (unsigned char val, unsigned char num){
-        return (val >> num) & 1
-    }
-#endif
+struct Resistor
+{
+  unsigned short channel1Res;
+  unsigned short channel2Res;
+  unsigned char pinCS;
+  unsigned char pinCLK;
+  unsigned char pinMOSI;
+};
 
 struct Resistor AD8402_R = {0};
+
+void setPins(unsigned char pinCS, unsigned char pinCLK, unsigned char pinMOSI){
+  AD8402_R.pinCS = pinCS;
+  AD8402_R.pinCLK = pinCLK;
+  AD8402_R.pinMOSI = pinMOSI;
+}
 
 void setResistance (unsigned char value) {
     digitalWrite(AD8402_R.pinCS, LOW);
@@ -18,8 +24,8 @@ void setResistance (unsigned char value) {
         digitalWrite(AD8402_R.pinMOSI, bitRead(value, i));
         digitalWrite(AD8402_R.pinCLK, LOW);
         delayMicroseconds(DELAY_RESISTANCE);
-        digitalWrite(AD8402_R.pinCLK, HIGH); 
-        delayMicroseconds(DELAY_RESISTANCE);     
+        digitalWrite(AD8402_R.pinCLK, HIGH);
+        delayMicroseconds(DELAY_RESISTANCE);
     }
     digitalWrite(AD8402_R.pinCS, HIGH);
 }
