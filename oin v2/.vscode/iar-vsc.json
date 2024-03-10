@@ -1,0 +1,18 @@
+{
+  "workspace": {
+    "path": "${workspaceFolder}\\newEww.eww"
+  },
+  "workspaces": {
+    "${workspaceFolder}\\newEww.eww": {
+      "configs": {
+        "${workspaceFolder}\\oin.ewp": "Debug"
+      },
+      "selected": {
+        "path": "${workspaceFolder}\\oin.ewp"
+      }
+    }
+  },
+  "workbench": {
+    "path": "E:\\apps\\IAR EW"
+  }
+}

@@ -77,3 +77,36 @@ void GPIO_Init(){
 	PD_ODR_ODR3 = 1;
 	PD_ODR_ODR4 = 1;
 }
+
+void DecomposeCom (unsigned char data){
+	if (data>>5 == OIN_DISABLE>>5){
+		if ((data & COM_POWER_MASK) == (255 & COM_POWER_MASK))
+			SET_POWER;
+		else
+			SET_GROUND;
+
+		if ((data & COM_BALANCE_MASK) == (255 & COM_BALANCE_MASK))
+			SET_BALANCE
+		else if ((data & COM_OIN_PLUS1_MASK) == (255 & COM_OIN_PLUS1_MASK))
+			SET_PLUS1
+		else if((data & COM_OIN_PLUS2_MASK) == (255 & COM_OIN_PLUS2_MASK))
+			SET_PLUS2
+		else
+			RESET_PLUS
+
+		if ((data & COM_COMPORATOR_MASK) == (255 & COM_COMPORATOR_MASK))
+			SET_COM
+		else if ((data & COM_OIN_MINUS1_MASK) == (255 & COM_OIN_MINUS1_MASK))
+			SET_MINUS1
+		else if((data & COM_OIN_MINUS2_MASK) == (255 & COM_OIN_MINUS2_MASK))
+			SET_MINUS2
+		else
+			RESET_MINUS
+	}
+}
+
+void Ping (){
+	SET_LED4;
+	delay(500000);
+	RESET_LED4;
+}

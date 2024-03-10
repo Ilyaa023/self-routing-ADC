@@ -33,7 +33,7 @@ void setup() {
   // analogReference(EXTERNAL);  
 
   Serial.begin(UART_SPEED);
-  Serial.setTimeout(1);
+  Serial.setTimeout(10);
   delay(500);
 
   if(digitalRead(PIN_BUTTON) == LOW){
@@ -100,24 +100,29 @@ void loop() {
         }
       }
     }
-    if (error != 0)
-      Serial.println("Bad request");
+    if (error != 0){
+      Serial.print("Bad request: ");
+      Serial.println(str);
+    }
+
   }
   
-  setResistanceAD8402(1, count); 
-  delay(DELAY_MEASURE);
-  measure(); 
-  if (digitalRead(PIN_BUTTON) == LOW){
-    delay(100); 
-    if (digitalRead(PIN_BUTTON) == LOW)
-      count = 255;
-  }    
-  count++;      
-  sendReport();  
-  // if(count < 255)      
-  //   count++;
-  // else 
-  //   count = 0;
+  if (measureMode){
+    setResistanceAD8402(1, count); 
+    delay(DELAY_MEASURE);
+    poop(); 
+    if (digitalRead(PIN_BUTTON) == LOW){
+      delay(100); 
+      if (digitalRead(PIN_BUTTON) == LOW)
+        count = 255;
+    }    
+    if (resistanceMode) count++;      
+    sendReport();  
+    // if(count < 255)      
+    //   count++;
+    // else 
+    //   count = 0;
+  }
 }
 
 byte checkOIN(String str){
@@ -125,7 +130,7 @@ byte checkOIN(String str){
   byte id = 0;
 
   String idS = "";
-  while ((str[i] >= "0") && (str[i] <= "9")){
+  while ((str[i] >= '0') && (str[i] <= '9')){
     idS += str[i++];
   } 
   if ((idS.length() > 0) && (idS.length() < 4))
@@ -144,10 +149,10 @@ byte setOinTurnedTo(String str, byte id){
   Serial.write(id);
   if (str.length() <= i)
     return 1;
-  if (str[i] == "n") 
+  if (str[i] == 'n') 
     Serial.write(OIN_TURN_ON);
-  else if ((str[i++] == "f") && (str.length() > i)){
-    if (str[i] == "f")
+  else if ((str[i++] == 'f') && (str.length() > i)){
+    if (str[i] == 'f')
       Serial.write(OIN_TURN_OFF);
   }
   else
@@ -222,17 +227,17 @@ byte setOinOuts(String str, byte id){
 }
 
 byte setStartStop(String str){
-  if (str[i] == "m"){
-    if (str[++i] == "0")
+  if (str[i] == 'm'){
+    if (str[++i] == '0')
       measureMode = 0;
-    else if (str[i] == "1")
+    else if (str[i] == '1')
       measureMode = 1;
     else
       return 1;
-  } else if (str[i] == "r"){
-      if (str[++i] == "0")
+  } else if (str[i] == 'r'){
+      if (str[++i] == '0')
         resistanceMode = 0;
-      else if (str[i] == "1")
+      else if (str[i] == '1')
         resistanceMode = 1;
       else 
         return 1;

@@ -128,8 +128,4 @@
 // extern struct OIN oins[10];
 extern byte numOfOins;
 
-extern byte count;
-
-extern String measured;
-
 

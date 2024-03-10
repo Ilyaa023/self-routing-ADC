@@ -286,7 +286,7 @@
                 </option>
                 <option>
                     <name>IccLang</name>
-                    <state>2</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>IccCDialect</name>
@@ -1636,6 +1636,21 @@
         </settings>
     </configuration>
     <file>
+        <name>$PROJ_DIR$\connections.c</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\keys.c</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\legacy.h</name>
+    </file>
+    <file>
         <name>$PROJ_DIR$\main.c</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\oin_global_interface.h</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\resistance.c</name>
     </file>
 </project>

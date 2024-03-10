@@ -3,7 +3,7 @@
 extern OIN oins[10];
 
 //Runtime test
-void measure(){
+void poop(){
   resetOINs();
 
   for(int i = 0; i < numOfOins; i++){

@@ -489,20 +489,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@PA_ODR_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "PA_ODR_bit",
-        "location": {
-          "column": "1",
-          "line": "85",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "PA_ODR_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_85_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@PA_ODR",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -513,6 +499,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "PA_ODR",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_85_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@PA_ODR_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "PA_ODR_bit",
+        "location": {
+          "column": "1",
+          "line": "85",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "PA_ODR_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_85_1"
       }
@@ -1047,20 +1047,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@PA_CR1_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "PA_CR1_bit",
-        "location": {
-          "column": "1",
-          "line": "133",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "PA_CR1_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_133_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@PA_CR1",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -1071,6 +1057,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "PA_CR1",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_133_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@PA_CR1_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "PA_CR1_bit",
+        "location": {
+          "column": "1",
+          "line": "133",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "PA_CR1_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_133_1"
       }
@@ -1233,20 +1233,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@PA_CR2_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "PA_CR2_bit",
-        "location": {
-          "column": "1",
-          "line": "149",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "PA_CR2_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_149_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@PA_CR2",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -1257,6 +1243,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "PA_CR2",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_149_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@PA_CR2_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "PA_CR2_bit",
+        "location": {
+          "column": "1",
+          "line": "149",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "PA_CR2_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_149_1"
       }
@@ -2539,20 +2539,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@PB_ODR_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "PB_ODR_bit",
-        "location": {
-          "column": "1",
-          "line": "270",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "PB_ODR_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_270_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@PB_ODR",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -2563,6 +2549,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "PB_ODR",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_270_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@PB_ODR_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "PB_ODR_bit",
+        "location": {
+          "column": "1",
+          "line": "270",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "PB_ODR_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_270_1"
       }
@@ -3097,20 +3097,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@PB_CR1_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "PB_CR1_bit",
-        "location": {
-          "column": "1",
-          "line": "318",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "PB_CR1_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_318_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@PB_CR1",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -3121,6 +3107,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "PB_CR1",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_318_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@PB_CR1_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "PB_CR1_bit",
+        "location": {
+          "column": "1",
+          "line": "318",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "PB_CR1_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_318_1"
       }
@@ -3283,20 +3283,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@PB_CR2_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "PB_CR2_bit",
-        "location": {
-          "column": "1",
-          "line": "334",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "PB_CR2_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_334_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@PB_CR2",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -3307,6 +3293,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "PB_CR2",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_334_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@PB_CR2_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "PB_CR2_bit",
+        "location": {
+          "column": "1",
+          "line": "334",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "PB_CR2_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_334_1"
       }
@@ -5147,20 +5147,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@PC_CR1_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "PC_CR1_bit",
-        "location": {
-          "column": "1",
-          "line": "503",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "PC_CR1_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_503_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@PC_CR1",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -5171,6 +5157,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "PC_CR1",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_503_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@PC_CR1_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "PC_CR1_bit",
+        "location": {
+          "column": "1",
+          "line": "503",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "PC_CR1_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_503_1"
       }
@@ -5333,20 +5333,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@PC_CR2_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "PC_CR2_bit",
-        "location": {
-          "column": "1",
-          "line": "519",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "PC_CR2_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_519_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@PC_CR2",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -5357,6 +5343,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "PC_CR2",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_519_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@PC_CR2_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "PC_CR2_bit",
+        "location": {
+          "column": "1",
+          "line": "519",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "PC_CR2_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_519_1"
       }
@@ -6639,20 +6639,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@PD_ODR_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "PD_ODR_bit",
-        "location": {
-          "column": "1",
-          "line": "640",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "PD_ODR_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_640_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@PD_ODR",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -6663,6 +6649,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "PD_ODR",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_640_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@PD_ODR_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "PD_ODR_bit",
+        "location": {
+          "column": "1",
+          "line": "640",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "PD_ODR_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_640_1"
       }
@@ -7011,20 +7011,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@PD_DDR_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "PD_DDR_bit",
-        "location": {
-          "column": "1",
-          "line": "672",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "PD_DDR_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_672_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@PD_DDR",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -7035,6 +7021,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "PD_DDR",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_672_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@PD_DDR_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "PD_DDR_bit",
+        "location": {
+          "column": "1",
+          "line": "672",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "PD_DDR_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_672_1"
       }
@@ -7197,20 +7197,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@PD_CR1_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "PD_CR1_bit",
-        "location": {
-          "column": "1",
-          "line": "688",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "PD_CR1_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_688_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@PD_CR1",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -7221,6 +7207,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "PD_CR1",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_688_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@PD_CR1_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "PD_CR1_bit",
+        "location": {
+          "column": "1",
+          "line": "688",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "PD_CR1_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_688_1"
       }
@@ -7383,20 +7383,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@PD_CR2_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "PD_CR2_bit",
-        "location": {
-          "column": "1",
-          "line": "704",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "PD_CR2_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_704_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@PD_CR2",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -7407,6 +7393,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "PD_CR2",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_704_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@PD_CR2_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "PD_CR2_bit",
+        "location": {
+          "column": "1",
+          "line": "704",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "PD_CR2_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_704_1"
       }
@@ -12877,20 +12877,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_CR2",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "FLASH_CR2",
-        "location": {
-          "column": "1",
-          "line": "1205",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "FLASH_CR2",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_1205_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_CR2_bit",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -12901,6 +12887,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "FLASH_CR2_bit",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_1205_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_CR2",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "FLASH_CR2",
+        "location": {
+          "column": "1",
+          "line": "1205",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "FLASH_CR2",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_1205_1"
       }
@@ -13021,20 +13021,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_NCR2",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "FLASH_NCR2",
-        "location": {
-          "column": "1",
-          "line": "1219",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "FLASH_NCR2",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_1219_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_NCR2_bit",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -13045,6 +13031,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "FLASH_NCR2_bit",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_1219_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_NCR2",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "FLASH_NCR2",
+        "location": {
+          "column": "1",
+          "line": "1219",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "FLASH_NCR2",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_1219_1"
       }
@@ -13179,20 +13179,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_FPR_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "FLASH_FPR_bit",
-        "location": {
-          "column": "1",
-          "line": "1233",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "FLASH_FPR_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_1233_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_FPR",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -13203,6 +13189,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "FLASH_FPR",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_1233_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_FPR_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "FLASH_FPR_bit",
+        "location": {
+          "column": "1",
+          "line": "1233",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "FLASH_FPR_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_1233_1"
       }
@@ -13337,20 +13337,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_NFPR_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "FLASH_NFPR_bit",
-        "location": {
-          "column": "1",
-          "line": "1247",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "FLASH_NFPR_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_1247_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_NFPR",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -13361,6 +13347,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "FLASH_NFPR",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_1247_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_NFPR_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "FLASH_NFPR_bit",
+        "location": {
+          "column": "1",
+          "line": "1247",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "FLASH_NFPR_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_1247_1"
       }
@@ -13481,20 +13481,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_IAPSR",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "FLASH_IAPSR",
-        "location": {
-          "column": "1",
-          "line": "1261",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "FLASH_IAPSR",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_1261_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_IAPSR_bit",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -13505,6 +13491,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "FLASH_IAPSR_bit",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_1261_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_IAPSR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "FLASH_IAPSR",
+        "location": {
+          "column": "1",
+          "line": "1261",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "FLASH_IAPSR",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_1261_1"
       }
@@ -14753,20 +14753,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@RST_SR",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "RST_SR",
-        "location": {
-          "column": "1",
-          "line": "1389",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "RST_SR",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_1389_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@RST_SR_bit",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -14777,6 +14763,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "RST_SR_bit",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_1389_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@RST_SR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "RST_SR",
+        "location": {
+          "column": "1",
+          "line": "1389",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "RST_SR",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_1389_1"
       }
@@ -17071,20 +17071,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@CLK_ICKR_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "CLK_ICKR_bit",
-        "location": {
-          "column": "1",
-          "line": "1616",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "CLK_ICKR_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_1616_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@CLK_ICKR",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -17095,6 +17081,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "CLK_ICKR",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_1616_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@CLK_ICKR_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "CLK_ICKR_bit",
+        "location": {
+          "column": "1",
+          "line": "1616",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "CLK_ICKR_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_1616_1"
       }
@@ -17433,20 +17433,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@CLK_CKDIVR_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "CLK_CKDIVR_bit",
-        "location": {
-          "column": "1",
-          "line": "1652",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "CLK_CKDIVR_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_1652_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@CLK_CKDIVR",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -17457,6 +17443,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "CLK_CKDIVR",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_1652_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@CLK_CKDIVR_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "CLK_CKDIVR_bit",
+        "location": {
+          "column": "1",
+          "line": "1652",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "CLK_CKDIVR_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_1652_1"
       }
@@ -19607,20 +19607,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@AWU_CSR1_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "AWU_CSR1_bit",
-        "location": {
-          "column": "1",
-          "line": "1901",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "AWU_CSR1_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_1901_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@AWU_CSR1",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -19631,6 +19617,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "AWU_CSR1",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_1901_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@AWU_CSR1_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "AWU_CSR1_bit",
+        "location": {
+          "column": "1",
+          "line": "1901",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "AWU_CSR1_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_1901_1"
       }
@@ -20039,20 +20039,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@BEEP_CSR_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "BEEP_CSR_bit",
-        "location": {
-          "column": "1",
-          "line": "1961",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "BEEP_CSR_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_1961_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@BEEP_CSR",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -20063,6 +20049,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "BEEP_CSR",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_1961_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@BEEP_CSR_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "BEEP_CSR_bit",
+        "location": {
+          "column": "1",
+          "line": "1961",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "BEEP_CSR_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_1961_1"
       }
@@ -20281,20 +20281,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@SPI_CR1_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "SPI_CR1_bit",
-        "location": {
-          "column": "1",
-          "line": "1998",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "SPI_CR1_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_1998_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@SPI_CR1",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -20305,6 +20291,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "SPI_CR1",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_1998_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@SPI_CR1_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "SPI_CR1_bit",
+        "location": {
+          "column": "1",
+          "line": "1998",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "SPI_CR1_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_1998_1"
       }
@@ -21599,20 +21599,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@I2C_CR1_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "I2C_CR1_bit",
-        "location": {
-          "column": "1",
-          "line": "2134",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "I2C_CR1_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_2134_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@I2C_CR1",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -21623,6 +21609,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "I2C_CR1",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_2134_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@I2C_CR1_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "I2C_CR1_bit",
+        "location": {
+          "column": "1",
+          "line": "2134",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "I2C_CR1_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_2134_1"
       }
@@ -21743,20 +21743,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@I2C_CR2",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "I2C_CR2",
-        "location": {
-          "column": "1",
-          "line": "2148",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "I2C_CR2",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_2148_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@I2C_CR2_bit",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -21767,6 +21753,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "I2C_CR2_bit",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_2148_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@I2C_CR2",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "I2C_CR2",
+        "location": {
+          "column": "1",
+          "line": "2148",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "I2C_CR2",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_2148_1"
       }
@@ -21933,20 +21933,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@I2C_OARL",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "I2C_OARL",
-        "location": {
-          "column": "1",
-          "line": "2167",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "I2C_OARL",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_2167_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@I2C_OARL_bit",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -21957,6 +21943,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "I2C_OARL_bit",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_2167_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@I2C_OARL",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "I2C_OARL",
+        "location": {
+          "column": "1",
+          "line": "2167",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "I2C_OARL",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_2167_1"
       }
@@ -22049,20 +22049,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@I2C_OARH_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "I2C_OARH_bit",
-        "location": {
-          "column": "1",
-          "line": "2180",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "I2C_OARH_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_2180_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@I2C_OARH",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -22073,6 +22059,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "I2C_OARH",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_2180_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@I2C_OARH_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "I2C_OARH_bit",
+        "location": {
+          "column": "1",
+          "line": "2180",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "I2C_OARH_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_2180_1"
       }
@@ -22379,20 +22379,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@I2C_SR2",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "I2C_SR2",
-        "location": {
-          "column": "1",
-          "line": "2212",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "I2C_SR2",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_2212_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@I2C_SR2_bit",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -22403,6 +22389,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "I2C_SR2_bit",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_2212_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@I2C_SR2",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "I2C_SR2",
+        "location": {
+          "column": "1",
+          "line": "2212",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "I2C_SR2",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_2212_1"
       }
@@ -22625,20 +22625,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@I2C_ITR_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "I2C_ITR_bit",
-        "location": {
-          "column": "1",
-          "line": "2236",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "I2C_ITR_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_2236_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@I2C_ITR",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -22649,6 +22635,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "I2C_ITR",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_2236_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@I2C_ITR_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "I2C_ITR_bit",
+        "location": {
+          "column": "1",
+          "line": "2236",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "I2C_ITR_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_2236_1"
       }
@@ -22755,20 +22755,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@I2C_CCRH_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "I2C_CCRH_bit",
-        "location": {
-          "column": "1",
-          "line": "2250",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "I2C_CCRH_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_2250_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@I2C_CCRH",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -22779,6 +22765,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "I2C_CCRH",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_2250_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@I2C_CCRH_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "I2C_CCRH_bit",
+        "location": {
+          "column": "1",
+          "line": "2250",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "I2C_CCRH_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_2250_1"
       }
@@ -24651,20 +24651,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@UART1_CR3_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "UART1_CR3_bit",
-        "location": {
-          "column": "1",
-          "line": "2441",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "UART1_CR3_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_2441_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@UART1_CR3",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -24675,6 +24661,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "UART1_CR3",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_2441_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@UART1_CR3_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "UART1_CR3_bit",
+        "location": {
+          "column": "1",
+          "line": "2441",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "UART1_CR3_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_2441_1"
       }
@@ -24925,20 +24925,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@UART1_CR5",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "UART1_CR5",
-        "location": {
-          "column": "1",
-          "line": "2467",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "UART1_CR5",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_2467_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@UART1_CR5_bit",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -24949,6 +24935,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "UART1_CR5_bit",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_2467_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@UART1_CR5",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "UART1_CR5",
+        "location": {
+          "column": "1",
+          "line": "2467",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "UART1_CR5",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_2467_1"
       }
@@ -26333,20 +26333,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@TIM1_CR2_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "TIM1_CR2_bit",
-        "location": {
-          "column": "1",
-          "line": "2604",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "TIM1_CR2_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_2604_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@TIM1_CR2",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -26357,6 +26343,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "TIM1_CR2",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_2604_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@TIM1_CR2_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "TIM1_CR2_bit",
+        "location": {
+          "column": "1",
+          "line": "2604",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "TIM1_CR2_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_2604_1"
       }
@@ -35277,20 +35277,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@ADC_CSR_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "ADC_CSR_bit",
-        "location": {
-          "column": "1",
-          "line": "3499",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "ADC_CSR_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_3499_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@ADC_CSR",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -35301,6 +35287,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "ADC_CSR",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_3499_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@ADC_CSR_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "ADC_CSR_bit",
+        "location": {
+          "column": "1",
+          "line": "3499",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "ADC_CSR_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_3499_1"
       }
@@ -35523,20 +35523,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@ADC_CR2",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "ADC_CR2",
-        "location": {
-          "column": "1",
-          "line": "3525",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "ADC_CR2",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_3525_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@ADC_CR2_bit",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -35547,6 +35533,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "ADC_CR2_bit",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_3525_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@ADC_CR2",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "ADC_CR2",
+        "location": {
+          "column": "1",
+          "line": "3525",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "ADC_CR2",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_3525_1"
       }
@@ -35625,20 +35625,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@ADC_CR3_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "ADC_CR3_bit",
-        "location": {
-          "column": "1",
-          "line": "3536",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "ADC_CR3_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_3536_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@ADC_CR3",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -35649,6 +35635,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "ADC_CR3",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_3536_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@ADC_CR3_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "ADC_CR3_bit",
+        "location": {
+          "column": "1",
+          "line": "3536",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "ADC_CR3_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_3536_1"
       }
@@ -35783,20 +35783,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@ADC_HTRL",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "ADC_HTRL",
-        "location": {
-          "column": "1",
-          "line": "3555",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "ADC_HTRL",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_3555_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@ADC_HTRL_bit",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -35807,6 +35793,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "ADC_HTRL_bit",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_3555_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@ADC_HTRL",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "ADC_HTRL",
+        "location": {
+          "column": "1",
+          "line": "3555",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "ADC_HTRL",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_3555_1"
       }
@@ -35885,20 +35885,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@ADC_LTRL",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "ADC_LTRL",
-        "location": {
-          "column": "1",
-          "line": "3566",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "ADC_LTRL",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_3566_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@ADC_LTRL_bit",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -35909,6 +35895,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "ADC_LTRL_bit",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_3566_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@ADC_LTRL",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "ADC_LTRL",
+        "location": {
+          "column": "1",
+          "line": "3566",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "ADC_LTRL",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_3566_1"
       }
@@ -35987,20 +35987,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@ADC_AWSRH_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "ADC_AWSRH_bit",
-        "location": {
-          "column": "1",
-          "line": "3576",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "ADC_AWSRH_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_3576_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@ADC_AWSRH",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -36011,6 +35997,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "ADC_AWSRH",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_3576_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@ADC_AWSRH_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "ADC_AWSRH_bit",
+        "location": {
+          "column": "1",
+          "line": "3576",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "ADC_AWSRH_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_3576_1"
       }
@@ -36275,20 +36275,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@ADC_AWCRH_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "ADC_AWCRH_bit",
-        "location": {
-          "column": "1",
-          "line": "3602",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "ADC_AWCRH_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_3602_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@ADC_AWCRH",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -36299,6 +36285,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "ADC_AWCRH",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_3602_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@ADC_AWCRH_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "ADC_AWCRH_bit",
+        "location": {
+          "column": "1",
+          "line": "3602",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "ADC_AWCRH_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_3602_1"
       }
@@ -37883,20 +37883,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@CPU_CFG_GCR_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "CPU_CFG_GCR_bit",
-        "location": {
-          "column": "1",
-          "line": "3771",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "CPU_CFG_GCR_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_3771_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@CPU_CFG_GCR",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -37907,6 +37893,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "CPU_CFG_GCR",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_3771_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@CPU_CFG_GCR_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "CPU_CFG_GCR_bit",
+        "location": {
+          "column": "1",
+          "line": "3771",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "CPU_CFG_GCR_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_3771_1"
       }
@@ -39274,14 +39274,3598 @@
     "scope": null
   },
   {
+    "ID": "c:legacy.h@8@macro@b00000000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00000000",
+    "location": {
+      "column": "9",
+      "line": "1",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00000000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@34@macro@b00000001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00000001",
+    "location": {
+      "column": "9",
+      "line": "2",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00000001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@60@macro@b00000010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00000010",
+    "location": {
+      "column": "9",
+      "line": "3",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00000010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@86@macro@b00000011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00000011",
+    "location": {
+      "column": "9",
+      "line": "4",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00000011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@112@macro@b00000100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00000100",
+    "location": {
+      "column": "9",
+      "line": "5",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00000100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@138@macro@b00000101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00000101",
+    "location": {
+      "column": "9",
+      "line": "6",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00000101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@164@macro@b00000110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00000110",
+    "location": {
+      "column": "9",
+      "line": "7",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00000110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@190@macro@b00000111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00000111",
+    "location": {
+      "column": "9",
+      "line": "8",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00000111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@216@macro@b00001000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00001000",
+    "location": {
+      "column": "9",
+      "line": "9",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00001000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@242@macro@b00001001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00001001",
+    "location": {
+      "column": "9",
+      "line": "10",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00001001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@268@macro@b00001010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00001010",
+    "location": {
+      "column": "9",
+      "line": "11",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00001010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@294@macro@b00001011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00001011",
+    "location": {
+      "column": "9",
+      "line": "12",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00001011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@320@macro@b00001100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00001100",
+    "location": {
+      "column": "9",
+      "line": "13",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00001100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@346@macro@b00001101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00001101",
+    "location": {
+      "column": "9",
+      "line": "14",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00001101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@372@macro@b00001110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00001110",
+    "location": {
+      "column": "9",
+      "line": "15",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00001110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@398@macro@b00001111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00001111",
+    "location": {
+      "column": "9",
+      "line": "16",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00001111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@424@macro@b00010000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00010000",
+    "location": {
+      "column": "9",
+      "line": "17",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00010000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@450@macro@b00010001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00010001",
+    "location": {
+      "column": "9",
+      "line": "18",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00010001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@476@macro@b00010010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00010010",
+    "location": {
+      "column": "9",
+      "line": "19",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00010010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@502@macro@b00010011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00010011",
+    "location": {
+      "column": "9",
+      "line": "20",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00010011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@528@macro@b00010100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00010100",
+    "location": {
+      "column": "9",
+      "line": "21",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00010100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@554@macro@b00010101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00010101",
+    "location": {
+      "column": "9",
+      "line": "22",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00010101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@580@macro@b00010110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00010110",
+    "location": {
+      "column": "9",
+      "line": "23",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00010110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@606@macro@b00010111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00010111",
+    "location": {
+      "column": "9",
+      "line": "24",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00010111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@632@macro@b00011000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00011000",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00011000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@658@macro@b00011001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00011001",
+    "location": {
+      "column": "9",
+      "line": "26",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00011001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@684@macro@b00011010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00011010",
+    "location": {
+      "column": "9",
+      "line": "27",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00011010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@710@macro@b00011011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00011011",
+    "location": {
+      "column": "9",
+      "line": "28",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00011011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@736@macro@b00011100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00011100",
+    "location": {
+      "column": "9",
+      "line": "29",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00011100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@762@macro@b00011101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00011101",
+    "location": {
+      "column": "9",
+      "line": "30",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00011101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@788@macro@b00011110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00011110",
+    "location": {
+      "column": "9",
+      "line": "31",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00011110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@814@macro@b00011111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00011111",
+    "location": {
+      "column": "9",
+      "line": "32",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00011111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@840@macro@b00100000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00100000",
+    "location": {
+      "column": "9",
+      "line": "33",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00100000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@866@macro@b00100001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00100001",
+    "location": {
+      "column": "9",
+      "line": "34",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00100001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@892@macro@b00100010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00100010",
+    "location": {
+      "column": "9",
+      "line": "35",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00100010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@918@macro@b00100011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00100011",
+    "location": {
+      "column": "9",
+      "line": "36",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00100011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@944@macro@b00100100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00100100",
+    "location": {
+      "column": "9",
+      "line": "37",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00100100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@970@macro@b00100101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00100101",
+    "location": {
+      "column": "9",
+      "line": "38",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00100101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@996@macro@b00100110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00100110",
+    "location": {
+      "column": "9",
+      "line": "39",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00100110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1022@macro@b00100111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00100111",
+    "location": {
+      "column": "9",
+      "line": "40",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00100111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1048@macro@b00101000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00101000",
+    "location": {
+      "column": "9",
+      "line": "41",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00101000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1074@macro@b00101001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00101001",
+    "location": {
+      "column": "9",
+      "line": "42",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00101001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1100@macro@b00101010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00101010",
+    "location": {
+      "column": "9",
+      "line": "43",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00101010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1126@macro@b00101011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00101011",
+    "location": {
+      "column": "9",
+      "line": "44",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00101011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1152@macro@b00101100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00101100",
+    "location": {
+      "column": "9",
+      "line": "45",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00101100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1178@macro@b00101101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00101101",
+    "location": {
+      "column": "9",
+      "line": "46",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00101101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1204@macro@b00101110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00101110",
+    "location": {
+      "column": "9",
+      "line": "47",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00101110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1230@macro@b00101111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00101111",
+    "location": {
+      "column": "9",
+      "line": "48",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00101111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1256@macro@b00110000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00110000",
+    "location": {
+      "column": "9",
+      "line": "49",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00110000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1282@macro@b00110001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00110001",
+    "location": {
+      "column": "9",
+      "line": "50",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00110001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1308@macro@b00110010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00110010",
+    "location": {
+      "column": "9",
+      "line": "51",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00110010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1334@macro@b00110011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00110011",
+    "location": {
+      "column": "9",
+      "line": "52",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00110011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1360@macro@b00110100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00110100",
+    "location": {
+      "column": "9",
+      "line": "53",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00110100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1386@macro@b00110101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00110101",
+    "location": {
+      "column": "9",
+      "line": "54",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00110101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1412@macro@b00110110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00110110",
+    "location": {
+      "column": "9",
+      "line": "55",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00110110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1438@macro@b00110111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00110111",
+    "location": {
+      "column": "9",
+      "line": "56",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00110111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1464@macro@b00111000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00111000",
+    "location": {
+      "column": "9",
+      "line": "57",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00111000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1490@macro@b00111001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00111001",
+    "location": {
+      "column": "9",
+      "line": "58",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00111001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1516@macro@b00111010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00111010",
+    "location": {
+      "column": "9",
+      "line": "59",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00111010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1542@macro@b00111011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00111011",
+    "location": {
+      "column": "9",
+      "line": "60",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00111011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1568@macro@b00111100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00111100",
+    "location": {
+      "column": "9",
+      "line": "61",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00111100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1594@macro@b00111101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00111101",
+    "location": {
+      "column": "9",
+      "line": "62",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00111101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1620@macro@b00111110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00111110",
+    "location": {
+      "column": "9",
+      "line": "63",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00111110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1646@macro@b00111111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b00111111",
+    "location": {
+      "column": "9",
+      "line": "64",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b00111111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1672@macro@b01000000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01000000",
+    "location": {
+      "column": "9",
+      "line": "65",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01000000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1698@macro@b01000001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01000001",
+    "location": {
+      "column": "9",
+      "line": "66",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01000001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1724@macro@b01000010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01000010",
+    "location": {
+      "column": "9",
+      "line": "67",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01000010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1750@macro@b01000011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01000011",
+    "location": {
+      "column": "9",
+      "line": "68",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01000011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1776@macro@b01000100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01000100",
+    "location": {
+      "column": "9",
+      "line": "69",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01000100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1802@macro@b01000101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01000101",
+    "location": {
+      "column": "9",
+      "line": "70",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01000101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1828@macro@b01000110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01000110",
+    "location": {
+      "column": "9",
+      "line": "71",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01000110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1854@macro@b01000111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01000111",
+    "location": {
+      "column": "9",
+      "line": "72",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01000111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1880@macro@b01001000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01001000",
+    "location": {
+      "column": "9",
+      "line": "73",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01001000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1906@macro@b01001001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01001001",
+    "location": {
+      "column": "9",
+      "line": "74",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01001001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1932@macro@b01001010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01001010",
+    "location": {
+      "column": "9",
+      "line": "75",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01001010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1958@macro@b01001011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01001011",
+    "location": {
+      "column": "9",
+      "line": "76",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01001011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@1984@macro@b01001100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01001100",
+    "location": {
+      "column": "9",
+      "line": "77",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01001100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2010@macro@b01001101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01001101",
+    "location": {
+      "column": "9",
+      "line": "78",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01001101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2036@macro@b01001110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01001110",
+    "location": {
+      "column": "9",
+      "line": "79",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01001110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2062@macro@b01001111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01001111",
+    "location": {
+      "column": "9",
+      "line": "80",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01001111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2088@macro@b01010000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01010000",
+    "location": {
+      "column": "9",
+      "line": "81",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01010000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2114@macro@b01010001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01010001",
+    "location": {
+      "column": "9",
+      "line": "82",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01010001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2140@macro@b01010010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01010010",
+    "location": {
+      "column": "9",
+      "line": "83",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01010010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2166@macro@b01010011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01010011",
+    "location": {
+      "column": "9",
+      "line": "84",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01010011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2192@macro@b01010100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01010100",
+    "location": {
+      "column": "9",
+      "line": "85",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01010100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2218@macro@b01010101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01010101",
+    "location": {
+      "column": "9",
+      "line": "86",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01010101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2244@macro@b01010110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01010110",
+    "location": {
+      "column": "9",
+      "line": "87",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01010110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2270@macro@b01010111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01010111",
+    "location": {
+      "column": "9",
+      "line": "88",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01010111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2296@macro@b01011000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01011000",
+    "location": {
+      "column": "9",
+      "line": "89",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01011000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2322@macro@b01011001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01011001",
+    "location": {
+      "column": "9",
+      "line": "90",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01011001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2348@macro@b01011010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01011010",
+    "location": {
+      "column": "9",
+      "line": "91",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01011010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2374@macro@b01011011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01011011",
+    "location": {
+      "column": "9",
+      "line": "92",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01011011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2400@macro@b01011100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01011100",
+    "location": {
+      "column": "9",
+      "line": "93",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01011100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2426@macro@b01011101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01011101",
+    "location": {
+      "column": "9",
+      "line": "94",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01011101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2452@macro@b01011110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01011110",
+    "location": {
+      "column": "9",
+      "line": "95",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01011110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2478@macro@b01011111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01011111",
+    "location": {
+      "column": "9",
+      "line": "96",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01011111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2504@macro@b01100000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01100000",
+    "location": {
+      "column": "9",
+      "line": "97",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01100000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2530@macro@b01100001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01100001",
+    "location": {
+      "column": "9",
+      "line": "98",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01100001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2556@macro@b01100010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01100010",
+    "location": {
+      "column": "9",
+      "line": "99",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01100010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2582@macro@b01100011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01100011",
+    "location": {
+      "column": "9",
+      "line": "100",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01100011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2608@macro@b01100100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01100100",
+    "location": {
+      "column": "9",
+      "line": "101",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01100100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2634@macro@b01100101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01100101",
+    "location": {
+      "column": "9",
+      "line": "102",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01100101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2660@macro@b01100110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01100110",
+    "location": {
+      "column": "9",
+      "line": "103",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01100110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2686@macro@b01100111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01100111",
+    "location": {
+      "column": "9",
+      "line": "104",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01100111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2712@macro@b01101000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01101000",
+    "location": {
+      "column": "9",
+      "line": "105",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01101000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2738@macro@b01101001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01101001",
+    "location": {
+      "column": "9",
+      "line": "106",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01101001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2764@macro@b01101010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01101010",
+    "location": {
+      "column": "9",
+      "line": "107",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01101010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2790@macro@b01101011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01101011",
+    "location": {
+      "column": "9",
+      "line": "108",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01101011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2816@macro@b01101100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01101100",
+    "location": {
+      "column": "9",
+      "line": "109",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01101100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2842@macro@b01101101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01101101",
+    "location": {
+      "column": "9",
+      "line": "110",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01101101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2868@macro@b01101110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01101110",
+    "location": {
+      "column": "9",
+      "line": "111",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01101110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2894@macro@b01101111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01101111",
+    "location": {
+      "column": "9",
+      "line": "112",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01101111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2920@macro@b01110000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01110000",
+    "location": {
+      "column": "9",
+      "line": "113",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01110000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2946@macro@b01110001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01110001",
+    "location": {
+      "column": "9",
+      "line": "114",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01110001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2972@macro@b01110010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01110010",
+    "location": {
+      "column": "9",
+      "line": "115",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01110010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@2998@macro@b01110011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01110011",
+    "location": {
+      "column": "9",
+      "line": "116",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01110011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3024@macro@b01110100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01110100",
+    "location": {
+      "column": "9",
+      "line": "117",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01110100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3050@macro@b01110101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01110101",
+    "location": {
+      "column": "9",
+      "line": "118",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01110101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3076@macro@b01110110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01110110",
+    "location": {
+      "column": "9",
+      "line": "119",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01110110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3102@macro@b01110111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01110111",
+    "location": {
+      "column": "9",
+      "line": "120",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01110111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3128@macro@b01111000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01111000",
+    "location": {
+      "column": "9",
+      "line": "121",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01111000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3154@macro@b01111001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01111001",
+    "location": {
+      "column": "9",
+      "line": "122",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01111001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3180@macro@b01111010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01111010",
+    "location": {
+      "column": "9",
+      "line": "123",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01111010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3206@macro@b01111011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01111011",
+    "location": {
+      "column": "9",
+      "line": "124",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01111011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3232@macro@b01111100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01111100",
+    "location": {
+      "column": "9",
+      "line": "125",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01111100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3258@macro@b01111101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01111101",
+    "location": {
+      "column": "9",
+      "line": "126",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01111101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3284@macro@b01111110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01111110",
+    "location": {
+      "column": "9",
+      "line": "127",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01111110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3310@macro@b01111111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b01111111",
+    "location": {
+      "column": "9",
+      "line": "128",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b01111111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3336@macro@b10000000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10000000",
+    "location": {
+      "column": "9",
+      "line": "129",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10000000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3362@macro@b10000001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10000001",
+    "location": {
+      "column": "9",
+      "line": "130",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10000001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3388@macro@b10000010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10000010",
+    "location": {
+      "column": "9",
+      "line": "131",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10000010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3414@macro@b10000011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10000011",
+    "location": {
+      "column": "9",
+      "line": "132",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10000011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3440@macro@b10000100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10000100",
+    "location": {
+      "column": "9",
+      "line": "133",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10000100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3466@macro@b10000101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10000101",
+    "location": {
+      "column": "9",
+      "line": "134",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10000101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3492@macro@b10000110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10000110",
+    "location": {
+      "column": "9",
+      "line": "135",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10000110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3518@macro@b10000111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10000111",
+    "location": {
+      "column": "9",
+      "line": "136",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10000111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3544@macro@b10001000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10001000",
+    "location": {
+      "column": "9",
+      "line": "137",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10001000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3570@macro@b10001001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10001001",
+    "location": {
+      "column": "9",
+      "line": "138",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10001001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3596@macro@b10001010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10001010",
+    "location": {
+      "column": "9",
+      "line": "139",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10001010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3622@macro@b10001011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10001011",
+    "location": {
+      "column": "9",
+      "line": "140",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10001011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3648@macro@b10001100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10001100",
+    "location": {
+      "column": "9",
+      "line": "141",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10001100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3674@macro@b10001101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10001101",
+    "location": {
+      "column": "9",
+      "line": "142",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10001101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3700@macro@b10001110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10001110",
+    "location": {
+      "column": "9",
+      "line": "143",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10001110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3726@macro@b10001111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10001111",
+    "location": {
+      "column": "9",
+      "line": "144",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10001111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3752@macro@b10010000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10010000",
+    "location": {
+      "column": "9",
+      "line": "145",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10010000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3778@macro@b10010001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10010001",
+    "location": {
+      "column": "9",
+      "line": "146",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10010001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3804@macro@b10010010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10010010",
+    "location": {
+      "column": "9",
+      "line": "147",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10010010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3830@macro@b10010011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10010011",
+    "location": {
+      "column": "9",
+      "line": "148",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10010011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3856@macro@b10010100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10010100",
+    "location": {
+      "column": "9",
+      "line": "149",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10010100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3882@macro@b10010101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10010101",
+    "location": {
+      "column": "9",
+      "line": "150",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10010101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3908@macro@b10010110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10010110",
+    "location": {
+      "column": "9",
+      "line": "151",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10010110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3934@macro@b10010111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10010111",
+    "location": {
+      "column": "9",
+      "line": "152",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10010111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3960@macro@b10011000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10011000",
+    "location": {
+      "column": "9",
+      "line": "153",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10011000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@3986@macro@b10011001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10011001",
+    "location": {
+      "column": "9",
+      "line": "154",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10011001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4012@macro@b10011010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10011010",
+    "location": {
+      "column": "9",
+      "line": "155",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10011010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4038@macro@b10011011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10011011",
+    "location": {
+      "column": "9",
+      "line": "156",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10011011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4064@macro@b10011100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10011100",
+    "location": {
+      "column": "9",
+      "line": "157",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10011100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4090@macro@b10011101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10011101",
+    "location": {
+      "column": "9",
+      "line": "158",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10011101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4116@macro@b10011110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10011110",
+    "location": {
+      "column": "9",
+      "line": "159",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10011110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4142@macro@b10011111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10011111",
+    "location": {
+      "column": "9",
+      "line": "160",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10011111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4168@macro@b10100000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10100000",
+    "location": {
+      "column": "9",
+      "line": "161",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10100000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4194@macro@b10100001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10100001",
+    "location": {
+      "column": "9",
+      "line": "162",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10100001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4220@macro@b10100010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10100010",
+    "location": {
+      "column": "9",
+      "line": "163",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10100010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4246@macro@b10100011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10100011",
+    "location": {
+      "column": "9",
+      "line": "164",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10100011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4272@macro@b10100100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10100100",
+    "location": {
+      "column": "9",
+      "line": "165",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10100100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4298@macro@b10100101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10100101",
+    "location": {
+      "column": "9",
+      "line": "166",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10100101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4324@macro@b10100110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10100110",
+    "location": {
+      "column": "9",
+      "line": "167",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10100110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4350@macro@b10100111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10100111",
+    "location": {
+      "column": "9",
+      "line": "168",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10100111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4376@macro@b10101000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10101000",
+    "location": {
+      "column": "9",
+      "line": "169",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10101000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4402@macro@b10101001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10101001",
+    "location": {
+      "column": "9",
+      "line": "170",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10101001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4428@macro@b10101010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10101010",
+    "location": {
+      "column": "9",
+      "line": "171",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10101010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4454@macro@b10101011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10101011",
+    "location": {
+      "column": "9",
+      "line": "172",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10101011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4480@macro@b10101100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10101100",
+    "location": {
+      "column": "9",
+      "line": "173",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10101100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4506@macro@b10101101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10101101",
+    "location": {
+      "column": "9",
+      "line": "174",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10101101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4532@macro@b10101110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10101110",
+    "location": {
+      "column": "9",
+      "line": "175",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10101110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4558@macro@b10101111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10101111",
+    "location": {
+      "column": "9",
+      "line": "176",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10101111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4584@macro@b10110000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10110000",
+    "location": {
+      "column": "9",
+      "line": "177",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10110000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4610@macro@b10110001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10110001",
+    "location": {
+      "column": "9",
+      "line": "178",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10110001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4636@macro@b10110010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10110010",
+    "location": {
+      "column": "9",
+      "line": "179",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10110010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4662@macro@b10110011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10110011",
+    "location": {
+      "column": "9",
+      "line": "180",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10110011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4688@macro@b10110100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10110100",
+    "location": {
+      "column": "9",
+      "line": "181",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10110100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4714@macro@b10110101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10110101",
+    "location": {
+      "column": "9",
+      "line": "182",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10110101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4740@macro@b10110110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10110110",
+    "location": {
+      "column": "9",
+      "line": "183",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10110110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4766@macro@b10110111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10110111",
+    "location": {
+      "column": "9",
+      "line": "184",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10110111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4792@macro@b10111000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10111000",
+    "location": {
+      "column": "9",
+      "line": "185",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10111000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4818@macro@b10111001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10111001",
+    "location": {
+      "column": "9",
+      "line": "186",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10111001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4844@macro@b10111010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10111010",
+    "location": {
+      "column": "9",
+      "line": "187",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10111010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4870@macro@b10111011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10111011",
+    "location": {
+      "column": "9",
+      "line": "188",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10111011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4896@macro@b10111100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10111100",
+    "location": {
+      "column": "9",
+      "line": "189",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10111100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4922@macro@b10111101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10111101",
+    "location": {
+      "column": "9",
+      "line": "190",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10111101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4948@macro@b10111110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10111110",
+    "location": {
+      "column": "9",
+      "line": "191",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10111110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@4974@macro@b10111111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b10111111",
+    "location": {
+      "column": "9",
+      "line": "192",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b10111111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5000@macro@b11000000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11000000",
+    "location": {
+      "column": "9",
+      "line": "193",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11000000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5026@macro@b11000001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11000001",
+    "location": {
+      "column": "9",
+      "line": "194",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11000001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5052@macro@b11000010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11000010",
+    "location": {
+      "column": "9",
+      "line": "195",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11000010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5078@macro@b11000011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11000011",
+    "location": {
+      "column": "9",
+      "line": "196",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11000011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5104@macro@b11000100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11000100",
+    "location": {
+      "column": "9",
+      "line": "197",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11000100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5130@macro@b11000101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11000101",
+    "location": {
+      "column": "9",
+      "line": "198",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11000101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5156@macro@b11000110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11000110",
+    "location": {
+      "column": "9",
+      "line": "199",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11000110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5182@macro@b11000111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11000111",
+    "location": {
+      "column": "9",
+      "line": "200",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11000111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5208@macro@b11001000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11001000",
+    "location": {
+      "column": "9",
+      "line": "201",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11001000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5234@macro@b11001001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11001001",
+    "location": {
+      "column": "9",
+      "line": "202",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11001001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5260@macro@b11001010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11001010",
+    "location": {
+      "column": "9",
+      "line": "203",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11001010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5286@macro@b11001011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11001011",
+    "location": {
+      "column": "9",
+      "line": "204",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11001011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5312@macro@b11001100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11001100",
+    "location": {
+      "column": "9",
+      "line": "205",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11001100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5338@macro@b11001101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11001101",
+    "location": {
+      "column": "9",
+      "line": "206",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11001101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5364@macro@b11001110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11001110",
+    "location": {
+      "column": "9",
+      "line": "207",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11001110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5390@macro@b11001111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11001111",
+    "location": {
+      "column": "9",
+      "line": "208",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11001111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5416@macro@b11010000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11010000",
+    "location": {
+      "column": "9",
+      "line": "209",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11010000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5442@macro@b11010001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11010001",
+    "location": {
+      "column": "9",
+      "line": "210",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11010001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5468@macro@b11010010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11010010",
+    "location": {
+      "column": "9",
+      "line": "211",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11010010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5494@macro@b11010011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11010011",
+    "location": {
+      "column": "9",
+      "line": "212",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11010011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5520@macro@b11010100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11010100",
+    "location": {
+      "column": "9",
+      "line": "213",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11010100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5546@macro@b11010101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11010101",
+    "location": {
+      "column": "9",
+      "line": "214",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11010101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5572@macro@b11010110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11010110",
+    "location": {
+      "column": "9",
+      "line": "215",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11010110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5598@macro@b11010111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11010111",
+    "location": {
+      "column": "9",
+      "line": "216",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11010111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5624@macro@b11011000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11011000",
+    "location": {
+      "column": "9",
+      "line": "217",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11011000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5650@macro@b11011001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11011001",
+    "location": {
+      "column": "9",
+      "line": "218",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11011001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5676@macro@b11011010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11011010",
+    "location": {
+      "column": "9",
+      "line": "219",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11011010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5702@macro@b11011011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11011011",
+    "location": {
+      "column": "9",
+      "line": "220",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11011011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5728@macro@b11011100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11011100",
+    "location": {
+      "column": "9",
+      "line": "221",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11011100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5754@macro@b11011101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11011101",
+    "location": {
+      "column": "9",
+      "line": "222",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11011101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5780@macro@b11011110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11011110",
+    "location": {
+      "column": "9",
+      "line": "223",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11011110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5806@macro@b11011111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11011111",
+    "location": {
+      "column": "9",
+      "line": "224",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11011111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5832@macro@b11100000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11100000",
+    "location": {
+      "column": "9",
+      "line": "225",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11100000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5858@macro@b11100001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11100001",
+    "location": {
+      "column": "9",
+      "line": "226",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11100001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5884@macro@b11100010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11100010",
+    "location": {
+      "column": "9",
+      "line": "227",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11100010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5910@macro@b11100011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11100011",
+    "location": {
+      "column": "9",
+      "line": "228",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11100011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5936@macro@b11100100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11100100",
+    "location": {
+      "column": "9",
+      "line": "229",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11100100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5962@macro@b11100101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11100101",
+    "location": {
+      "column": "9",
+      "line": "230",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11100101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@5988@macro@b11100110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11100110",
+    "location": {
+      "column": "9",
+      "line": "231",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11100110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6014@macro@b11100111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11100111",
+    "location": {
+      "column": "9",
+      "line": "232",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11100111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6040@macro@b11101000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11101000",
+    "location": {
+      "column": "9",
+      "line": "233",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11101000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6066@macro@b11101001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11101001",
+    "location": {
+      "column": "9",
+      "line": "234",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11101001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6092@macro@b11101010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11101010",
+    "location": {
+      "column": "9",
+      "line": "235",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11101010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6118@macro@b11101011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11101011",
+    "location": {
+      "column": "9",
+      "line": "236",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11101011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6144@macro@b11101100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11101100",
+    "location": {
+      "column": "9",
+      "line": "237",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11101100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6170@macro@b11101101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11101101",
+    "location": {
+      "column": "9",
+      "line": "238",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11101101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6196@macro@b11101110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11101110",
+    "location": {
+      "column": "9",
+      "line": "239",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11101110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6222@macro@b11101111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11101111",
+    "location": {
+      "column": "9",
+      "line": "240",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11101111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6248@macro@b11110000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11110000",
+    "location": {
+      "column": "9",
+      "line": "241",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11110000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6274@macro@b11110001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11110001",
+    "location": {
+      "column": "9",
+      "line": "242",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11110001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6300@macro@b11110010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11110010",
+    "location": {
+      "column": "9",
+      "line": "243",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11110010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6326@macro@b11110011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11110011",
+    "location": {
+      "column": "9",
+      "line": "244",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11110011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6352@macro@b11110100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11110100",
+    "location": {
+      "column": "9",
+      "line": "245",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11110100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6378@macro@b11110101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11110101",
+    "location": {
+      "column": "9",
+      "line": "246",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11110101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6404@macro@b11110110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11110110",
+    "location": {
+      "column": "9",
+      "line": "247",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11110110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6430@macro@b11110111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11110111",
+    "location": {
+      "column": "9",
+      "line": "248",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11110111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6456@macro@b11111000",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11111000",
+    "location": {
+      "column": "9",
+      "line": "249",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11111000",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6482@macro@b11111001",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11111001",
+    "location": {
+      "column": "9",
+      "line": "250",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11111001",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6508@macro@b11111010",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11111010",
+    "location": {
+      "column": "9",
+      "line": "251",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11111010",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6534@macro@b11111011",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11111011",
+    "location": {
+      "column": "9",
+      "line": "252",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11111011",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6560@macro@b11111100",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11111100",
+    "location": {
+      "column": "9",
+      "line": "253",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11111100",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6586@macro@b11111101",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11111101",
+    "location": {
+      "column": "9",
+      "line": "254",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11111101",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6612@macro@b11111110",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11111110",
+    "location": {
+      "column": "9",
+      "line": "255",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11111110",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:legacy.h@6638@macro@b11111111",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "b11111111",
+    "location": {
+      "column": "9",
+      "line": "256",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\legacy.h"
+    },
+    "name": "b11111111",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
     "ID": "c:@F@CLK_Init",
     "What": "Function",
     "defdec": "Def",
     "display": "void CLK_Init(void)",
     "location": {
       "column": "6",
-      "line": "9",
-      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.c"
+      "line": "3",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\connections.c"
     },
     "name": "CLK_Init",
     "origin": "project_file",
@@ -39294,8 +42878,8 @@
     "display": "void UART1_Init(void)",
     "location": {
       "column": "6",
-      "line": "19",
-      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.c"
+      "line": "13",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\connections.c"
     },
     "name": "UART1_Init",
     "origin": "project_file",
@@ -39308,49 +42892,217 @@
     "display": "void GPIO_Init(void)",
     "location": {
       "column": "6",
-      "line": "33",
-      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.c"
+      "line": "27",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\connections.c"
     },
     "name": "GPIO_Init",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:@F@main",
+    "ID": "c:@F@DecomposeCom",
     "What": "Function",
     "defdec": "Def",
-    "display": "int main(void)",
+    "display": "void DecomposeCom(unsigned char)",
     "location": {
-      "column": "5",
-      "line": "90",
-      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.c"
+      "column": "6",
+      "line": "81",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\connections.c"
     },
-    "name": "main",
+    "name": "DecomposeCom",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:main.c@1820@F@main@data",
-    "What": "Variable",
+    "ID": "c:@F@Ping",
+    "What": "Function",
     "defdec": "Def",
-    "display": "data",
+    "display": "void Ping(void)",
     "location": {
-      "column": "17",
-      "line": "100",
-      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.c"
+      "column": "6",
+      "line": "108",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\connections.c"
     },
-    "name": "data",
+    "name": "Ping",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:main.h@417@macro@ID",
+    "ID": "c:main.h@473@macro@SET_POWER",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SET_POWER",
+    "location": {
+      "column": "9",
+      "line": "27",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "SET_POWER",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@514@macro@SET_GROUND",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SET_GROUND",
+    "location": {
+      "column": "9",
+      "line": "28",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "SET_GROUND",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@555@macro@RESET_PLUS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RESET_PLUS",
+    "location": {
+      "column": "9",
+      "line": "29",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "RESET_PLUS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@633@macro@SET_PLUS1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SET_PLUS1",
+    "location": {
+      "column": "9",
+      "line": "30",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "SET_PLUS1",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@711@macro@SET_PLUS2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SET_PLUS2",
+    "location": {
+      "column": "9",
+      "line": "31",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "SET_PLUS2",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@789@macro@SET_BALANCE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SET_BALANCE",
+    "location": {
+      "column": "9",
+      "line": "32",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "SET_BALANCE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@867@macro@RESET_MINUS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RESET_MINUS",
+    "location": {
+      "column": "9",
+      "line": "33",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "RESET_MINUS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@945@macro@SET_MINUS1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SET_MINUS1",
+    "location": {
+      "column": "9",
+      "line": "34",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "SET_MINUS1",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@1023@macro@SET_MINUS2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SET_MINUS2",
+    "location": {
+      "column": "9",
+      "line": "35",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "SET_MINUS2",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@1101@macro@SET_COM",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SET_COM",
+    "location": {
+      "column": "9",
+      "line": "36",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "SET_COM",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@1181@macro@SET_LED4",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SET_LED4",
+    "location": {
+      "column": "9",
+      "line": "38",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "SET_LED4",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@1222@macro@RESET_LED4",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RESET_LED4",
+    "location": {
+      "column": "9",
+      "line": "39",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "RESET_LED4",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@1265@macro@ID",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "ID",
     "location": {
       "column": "9",
-      "line": "25",
+      "line": "41",
       "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
     },
     "name": "ID",
@@ -39358,13 +43110,13 @@
     "scope": null
   },
   {
-    "ID": "c:main.h@526@macro@DELAY_TIME_RES",
+    "ID": "c:main.h@1374@macro@DELAY_TIME_RES",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "DELAY_TIME_RES",
     "location": {
       "column": "9",
-      "line": "26",
+      "line": "42",
       "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
     },
     "name": "DELAY_TIME_RES",
@@ -39378,7 +43130,7 @@
     "display": "void delay(unsigned long)",
     "location": {
       "column": "13",
-      "line": "28",
+      "line": "44",
       "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
     },
     "name": "delay",
@@ -39392,7 +43144,21 @@
     "display": "void CLK_Init(void)",
     "location": {
       "column": "6",
-      "line": "30",
+      "line": "46",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "CLK_Init",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CLK_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void CLK_Init(void)",
+    "location": {
+      "column": "6",
+      "line": "46",
       "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
     },
     "name": "CLK_Init",
@@ -39406,7 +43172,21 @@
     "display": "void UART1_Init(void)",
     "location": {
       "column": "6",
-      "line": "31",
+      "line": "47",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "UART1_Init",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART1_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void UART1_Init(void)",
+    "location": {
+      "column": "6",
+      "line": "47",
       "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
     },
     "name": "UART1_Init",
@@ -39420,7 +43200,21 @@
     "display": "void GPIO_Init(void)",
     "location": {
       "column": "6",
-      "line": "32",
+      "line": "48",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "GPIO_Init",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@GPIO_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void GPIO_Init(void)",
+    "location": {
+      "column": "6",
+      "line": "48",
       "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
     },
     "name": "GPIO_Init",
@@ -39434,7 +43228,7 @@
     "display": "void UART1_send_char(char)",
     "location": {
       "column": "6",
-      "line": "33",
+      "line": "49",
       "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
     },
     "name": "UART1_send_char",
@@ -39448,7 +43242,7 @@
     "display": "void UART1_print_string(char *)",
     "location": {
       "column": "6",
-      "line": "34",
+      "line": "50",
       "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
     },
     "name": "UART1_print_string",
@@ -39462,7 +43256,7 @@
     "display": "void UART1_print_bcd(unsigned char)",
     "location": {
       "column": "6",
-      "line": "35",
+      "line": "51",
       "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
     },
     "name": "UART1_print_bcd",
@@ -39476,10 +43270,332 @@
     "display": "void SetResistor(unsigned char, unsigned char)",
     "location": {
       "column": "6",
-      "line": "36",
+      "line": "52",
       "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
     },
     "name": "SetResistor",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SetResistor",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void SetResistor(unsigned char, unsigned char)",
+    "location": {
+      "column": "6",
+      "line": "52",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "SetResistor",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@DecomposeCom",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void DecomposeCom(unsigned char)",
+    "location": {
+      "column": "6",
+      "line": "54",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "DecomposeCom",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@DecomposeCom",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void DecomposeCom(unsigned char)",
+    "location": {
+      "column": "6",
+      "line": "54",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "DecomposeCom",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@Ping",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void Ping(void)",
+    "location": {
+      "column": "6",
+      "line": "55",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "Ping",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@Ping",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void Ping(void)",
+    "location": {
+      "column": "6",
+      "line": "55",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+    },
+    "name": "Ping",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@6206@macro@COM_BALANCE_MASK",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COM_BALANCE_MASK",
+    "location": {
+      "column": "9",
+      "line": "56",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "COM_BALANCE_MASK",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@6246@macro@COM_OIN_PLUS1_MASK",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COM_OIN_PLUS1_MASK",
+    "location": {
+      "column": "9",
+      "line": "57",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "COM_OIN_PLUS1_MASK",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@6286@macro@COM_OIN_PLUS2_MASK",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COM_OIN_PLUS2_MASK",
+    "location": {
+      "column": "9",
+      "line": "58",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "COM_OIN_PLUS2_MASK",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@6326@macro@COM_COMPORATOR_MASK",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COM_COMPORATOR_MASK",
+    "location": {
+      "column": "9",
+      "line": "59",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "COM_COMPORATOR_MASK",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@6366@macro@COM_OIN_MINUS1_MASK",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COM_OIN_MINUS1_MASK",
+    "location": {
+      "column": "9",
+      "line": "60",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "COM_OIN_MINUS1_MASK",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@6406@macro@COM_OIN_MINUS2_MASK",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COM_OIN_MINUS2_MASK",
+    "location": {
+      "column": "9",
+      "line": "61",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "COM_OIN_MINUS2_MASK",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@6446@macro@COM_POWER_MASK",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COM_POWER_MASK",
+    "location": {
+      "column": "9",
+      "line": "62",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "COM_POWER_MASK",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@6488@macro@OIN_DISABLE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "OIN_DISABLE",
+    "location": {
+      "column": "9",
+      "line": "64",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "OIN_DISABLE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@6525@macro@OIN_HIGH",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "OIN_HIGH",
+    "location": {
+      "column": "9",
+      "line": "66",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "OIN_HIGH",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@6676@macro@OIN_MIDDLE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "OIN_MIDDLE",
+    "location": {
+      "column": "9",
+      "line": "67",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "OIN_MIDDLE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@6823@macro@OIN_LOW",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "OIN_LOW",
+    "location": {
+      "column": "9",
+      "line": "68",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "OIN_LOW",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@6971@macro@OIN_REQUEST",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "OIN_REQUEST",
+    "location": {
+      "column": "9",
+      "line": "70",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "OIN_REQUEST",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@7006@macro@OIN_CHANGE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "OIN_CHANGE",
+    "location": {
+      "column": "9",
+      "line": "71",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "OIN_CHANGE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@7041@macro@OIN_PING",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "OIN_PING",
+    "location": {
+      "column": "9",
+      "line": "72",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "OIN_PING",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@7078@macro@OIN_RESET_ID",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "OIN_RESET_ID",
+    "location": {
+      "column": "9",
+      "line": "74",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "OIN_RESET_ID",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@7113@macro@OIN_TURN_OFF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "OIN_TURN_OFF",
+    "location": {
+      "column": "9",
+      "line": "75",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "OIN_TURN_OFF",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@7148@macro@OIN_TURN_ON",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "OIN_TURN_ON",
+    "location": {
+      "column": "9",
+      "line": "76",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "OIN_TURN_ON",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:oin_global_interface.h@7185@macro@UART_SPEED",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_SPEED",
+    "location": {
+      "column": "9",
+      "line": "78",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\oin_global_interface.h"
+    },
+    "name": "UART_SPEED",
     "origin": "user_include",
     "scope": null
   },
@@ -39490,11 +43606,11 @@
     "display": "state",
     "location": {
       "column": "15",
-      "line": "38",
-      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+      "line": "7",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.c"
     },
     "name": "state",
-    "origin": "user_include",
+    "origin": "project_file",
     "scope": null
   },
   {
@@ -39504,11 +43620,95 @@
     "display": "mode",
     "location": {
       "column": "15",
-      "line": "39",
-      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.h"
+      "line": "8",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.c"
     },
     "name": "mode",
-    "origin": "user_include",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@actualID",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "actualID",
+    "location": {
+      "column": "15",
+      "line": "10",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.c"
+    },
+    "name": "actualID",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "12",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@461@F@main@data",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "data",
+    "location": {
+      "column": "17",
+      "line": "22",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\main.c"
+    },
+    "name": "data",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SetResistor",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SetResistor(unsigned char, unsigned char)",
+    "location": {
+      "column": "6",
+      "line": "3",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\resistance.c"
+    },
+    "name": "SetResistor",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:resistance.c@104@F@SetResistor@i",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "i",
+    "location": {
+      "column": "10",
+      "line": "5",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\resistance.c"
+    },
+    "name": "i",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:resistance.c@265@F@SetResistor@i",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "i",
+    "location": {
+      "column": "11",
+      "line": "12",
+      "path": "E:\\Sources\\GitHub projects\\self-routing-ADC\\oin v2\\resistance.c"
+    },
+    "name": "i",
+    "origin": "project_file",
     "scope": null
   }
 ]

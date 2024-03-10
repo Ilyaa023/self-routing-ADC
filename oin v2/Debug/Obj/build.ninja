@@ -20,8 +20,11 @@ rule browsedata
 
 
 #Build steps
+build connections.pbi : index connections.xcl
+build keys.pbi : index keys.xcl
 build main.pbi : index main.xcl
-build oin.pbd : link main.pbi
+build resistance.pbi : index resistance.xcl
+build oin.pbd : link connections.pbi keys.pbi main.pbi resistance.pbi
 build oin.pbw : browsedata oin.pbd
 
 

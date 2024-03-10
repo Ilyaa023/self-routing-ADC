@@ -1,90 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
     <fileVersion>4</fileVersion>
-    <fileChecksum>2432705812</fileChecksum>
+    <fileChecksum>2152262908</fileChecksum>
     <configuration>
         <name>Debug</name>
         <outputs>
-            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
-            <file>$TOOLKIT_DIR$\lib\dbgstm8smd.a</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
-            <file>$PROJ_DIR$\Debug\Exe\oin.out</file>
-            <file>$TOOLKIT_DIR$\lib\dlstm8smn.a</file>
-            <file>$PROJ_DIR$\Debug\Obj\keys.o</file>
-            <file>$PROJ_DIR$\main.h</file>
-            <file>$PROJ_DIR$\keys.c</file>
+            <file>$PROJ_DIR$\Debug\List\oin.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\keys.__cstat.et</file>
+            <file>$PROJ_DIR$\oin_global_interface.h</file>
+            <file>$PROJ_DIR$\connections.c</file>
+            <file>$PROJ_DIR$\resistance.c</file>
+            <file>$TOOLKIT_DIR$\inc\io_macros.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
             <file>$PROJ_DIR$\Debug\Obj\oin.pbd</file>
             <file>$PROJ_DIR$\main.c</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
-            <file>$PROJ_DIR$\Debug\Obj\resistance.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\connections.xcl</file>
-            <file>$TOOLKIT_DIR$\inc\io_macros.h</file>
-            <file>$PROJ_DIR$\Debug\List\oin.map</file>
-            <file>$PROJ_DIR$\resistance.c</file>
-            <file>$TOOLKIT_DIR$\inc\iostm8s003f3.h</file>
+            <file>$TOOLKIT_DIR$\lib\dlstm8smn.a</file>
+            <file>$PROJ_DIR$\main.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\oin.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
             <file>$PROJ_DIR$\Debug\Obj\resistance.o</file>
-            <file>$PROJ_DIR$\connections.c</file>
-            <file>$PROJ_DIR$\Debug\Obj\keys.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\connections.o</file>
             <file>$TOOLKIT_DIR$\config\lnkstm8s003f3.icf</file>
+            <file>$PROJ_DIR$\keys.c</file>
+            <file>$TOOLKIT_DIR$\lib\dbgstm8smd.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\keys.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\resistance.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\connections.o</file>
+            <file>$TOOLKIT_DIR$\inc\iostm8s003f3.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\keys.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\resistance.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\connections.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\connections.xcl</file>
+            <file>$PROJ_DIR$\legacy.h</file>
         </outputs>
         <file>
             <name>[ROOT_NODE]</name>
             <outputs>
                 <tool>
                     <name>ILINK</name>
-                    <file> 3 14</file>
+                    <file> 11 0</file>
                 </tool>
             </outputs>
         </file>
         <file>
-            <name>$PROJ_DIR$\Debug\Exe\oin.out</name>
+            <name>$PROJ_DIR$\connections.c</name>
             <outputs>
-                <tool>
-                    <name>ILINK</name>
-                    <file> 14</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ILINK</name>
-                    <file> 21 0 4 1</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\keys.c</name>
-            <outputs>
-                <tool>
-                    <name>ICCSTM8</name>
-                    <file> 5</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 19</file>
-                </tool>
-            </outputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\main.c</name>
-            <outputs>
-                <tool>
-                    <name>ICCSTM8</name>
-                    <file> 0</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 2</file>
-                </tool>
                 <tool>
                     <name>__cstat</name>
-                    <file> 10</file>
+                    <file> 24</file>
+                </tool>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 20</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 25</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCSTM8</name>
-                    <file> 6 16 13</file>
+                    <file> 10 21 5 2 26</file>
                 </tool>
             </inputs>
         </file>
@@ -92,27 +69,35 @@
             <name>$PROJ_DIR$\resistance.c</name>
             <outputs>
                 <tool>
+                    <name>__cstat</name>
+                    <file> 23</file>
+                </tool>
+                <tool>
                     <name>ICCSTM8</name>
-                    <file> 17</file>
+                    <file> 13</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 11</file>
+                    <file> 19</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCSTM8</name>
-                    <file> 6 16 13</file>
+                    <file> 10 21 5 2 26</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>$PROJ_DIR$\connections.c</name>
+            <name>$PROJ_DIR$\main.c</name>
             <outputs>
                 <tool>
+                    <name>__cstat</name>
+                    <file> 6</file>
+                </tool>
+                <tool>
                     <name>ICCSTM8</name>
-                    <file> 20</file>
+                    <file> 17</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
@@ -122,9 +107,41 @@
             <inputs>
                 <tool>
                     <name>ICCSTM8</name>
-                    <file> 6 16 13</file>
+                    <file> 10 21 5 2 26</file>
                 </tool>
             </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\oin.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 0</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 14 20 18 17 13 9 16</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\keys.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 1</file>
+                </tool>
+                <tool>
+                    <name>ICCSTM8</name>
+                    <file> 18</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22</file>
+                </tool>
+            </outputs>
         </file>
     </configuration>
     <configuration>
