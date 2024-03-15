@@ -30,11 +30,11 @@ void GPIO_Init(){
 	PA_DDR_DDR3 = 1;
 	PB_DDR_DDR4 = 1;
 	PC_DDR_DDR3 = 1;
-	PC_DDR_DDR4 = 0;
+	PC_DDR_DDR4 = 1;
 	PC_DDR_DDR5 = 1;
 	PC_DDR_DDR6 = 1;
 	PC_DDR_DDR7 = 1;
-//	PD_DDR_DDR2 = 1;
+	PD_DDR_DDR2 = 1;
 	PD_DDR_DDR3 = 1;
 	PD_DDR_DDR4 = 1;
 
@@ -43,11 +43,11 @@ void GPIO_Init(){
 	PA_CR1_C13 = 1;
 	PB_CR1_C14 = 1;
 	PC_CR1_C13 = 1;
-	PC_CR1_C14 = 0;
+	PC_CR1_C14 = 1;
 	PC_CR1_C15 = 1;
 	PC_CR1_C16 = 1;
 	PC_CR1_C17 = 1;
-//	PD_CR1_C12 = 1;
+	PD_CR1_C12 = 1;
 	PD_CR1_C13 = 1;
 	PD_CR1_C14 = 1;
 
@@ -60,7 +60,7 @@ void GPIO_Init(){
 	PC_CR2_C25 = 0;
 	PC_CR2_C26 = 0;
 	PC_CR2_C27 = 0;
-//	PD_CR2_C22 = 0;
+	PD_CR2_C22 = 0;
 	PD_CR2_C23 = 0;
 	PD_CR2_C24 = 0;
 
@@ -69,11 +69,11 @@ void GPIO_Init(){
 	PA_ODR_ODR3 = 1;
 	PB_ODR_ODR4 = 1;
 	PC_ODR_ODR3 = 1;
-	PC_ODR_ODR4 = 0;
+	PC_ODR_ODR4 = 1;
 	PC_ODR_ODR5 = 1;
-	PC_ODR_ODR6 = 0;
+	PC_ODR_ODR6 = 1;
 	PC_ODR_ODR7 = 1;
-//	PD_ODR_ODR2 = 1;
+	PD_ODR_ODR2 = 1;
 	PD_ODR_ODR3 = 1;
 	PD_ODR_ODR4 = 1;
 }

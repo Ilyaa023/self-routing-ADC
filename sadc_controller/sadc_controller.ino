@@ -171,11 +171,11 @@ byte setOinOuts(String str, byte id){
         break;
       }
       case '1': {
-        comMask = 255 & COM_OIN_PLUS1_MASK;
+        comMask = 255 & COM_OIN_MINUS1_MASK;
         break;
       }
       case '2': {
-        comMask = 255 & COM_OIN_PLUS2_MASK;
+        comMask = 255 & COM_OIN_MINUS2_MASK;
         break;
       }
       case '3': {
@@ -183,6 +183,7 @@ byte setOinOuts(String str, byte id){
         break;
       }
       default:
+      // comMask = 255 & COM_OIN_PLUS2_MASK;
         return 1;
     }
     byte powMask = 0;
@@ -205,11 +206,11 @@ byte setOinOuts(String str, byte id){
         break;
       }
       case '1': {
-        balMask = 255 & COM_OIN_MINUS1_MASK;
+        balMask = 255 & COM_OIN_PLUS1_MASK;
         break;
       }
       case '2': {
-        balMask = 255 & COM_OIN_MINUS2_MASK;
+        balMask = 255 & COM_OIN_PLUS2_MASK;
         break;
       }
       case '3': {

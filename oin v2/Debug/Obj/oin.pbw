@@ -6639,20 +6639,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@PD_ODR",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "PD_ODR",
-        "location": {
-          "column": "1",
-          "line": "640",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "PD_ODR",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_640_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@PD_ODR_bit",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -6663,6 +6649,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "PD_ODR_bit",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_640_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@PD_ODR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "PD_ODR",
+        "location": {
+          "column": "1",
+          "line": "640",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "PD_ODR",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_640_1"
       }
@@ -12877,20 +12877,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_CR2_bit",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "FLASH_CR2_bit",
-        "location": {
-          "column": "1",
-          "line": "1205",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "FLASH_CR2_bit",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_1205_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_CR2",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -12901,6 +12887,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "FLASH_CR2",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_1205_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@FLASH_CR2_bit",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "FLASH_CR2_bit",
+        "location": {
+          "column": "1",
+          "line": "1205",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "FLASH_CR2_bit",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_1205_1"
       }
@@ -19607,20 +19607,6 @@
     },
     "members": [
       {
-        "ID": "c:iostm8s003f3.h@Ua@FI@AWU_CSR1",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "AWU_CSR1",
-        "location": {
-          "column": "1",
-          "line": "1901",
-          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
-        },
-        "name": "AWU_CSR1",
-        "origin": "system_include",
-        "scope": "_anonymous_iostm8s003f3_h_1901_1"
-      },
-      {
         "ID": "c:iostm8s003f3.h@Ua@FI@AWU_CSR1_bit",
         "What": "FieldDecl",
         "defdec": "Def",
@@ -19631,6 +19617,20 @@
           "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
         },
         "name": "AWU_CSR1_bit",
+        "origin": "system_include",
+        "scope": "_anonymous_iostm8s003f3_h_1901_1"
+      },
+      {
+        "ID": "c:iostm8s003f3.h@Ua@FI@AWU_CSR1",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "AWU_CSR1",
+        "location": {
+          "column": "1",
+          "line": "1901",
+          "path": "E:\\apps\\IAR EW\\stm8\\inc\\iostm8s003f3.h"
+        },
+        "name": "AWU_CSR1",
         "origin": "system_include",
         "scope": "_anonymous_iostm8s003f3_h_1901_1"
       }
