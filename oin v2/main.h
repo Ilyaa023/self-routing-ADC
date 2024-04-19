@@ -38,7 +38,7 @@ D6 -> RX
 #define SET_LED4       	PB_ODR_ODR4 = 0
 #define RESET_LED4     	PB_ODR_ODR4 = 1
 
-#define ID 193							//individual ID minimum 192, maximum 255 (except cases when logging via the same port)
+#define ID 202							//individual ID minimum 1, maximum 255 (except cases when logging via the same port)
 #define DELAY_TIME_RES 320
 
 static void delay(unsigned long t){ while(t--); }

@@ -113,7 +113,7 @@
 #include "oin_global_interface.h"
 #include "AD8402.h"
 
-#define DELAY_MEASURE   1
+#define DELAY_MEASURE   2
 #define DELAY_TIME      1
 
 #define PIN_COMPORATOR  6

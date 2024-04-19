@@ -6,15 +6,15 @@ class OIN {
   byte commands[2];
 };
 
-byte numOfOins = 3;
-byte ids[3] = {192, 193, 194};
+byte numOfOins = 8;
+byte ids[8] = {200, 199, 198, 197, 196, 195, 194, 193};
 OIN oins[10];
 
 byte count;
 String measured;
 
-byte measureMode = 0;
-byte resistanceMode = 0;
+byte measureMode = 1;
+byte resistanceMode = 1;
 
 byte i = 3;
 
@@ -109,6 +109,7 @@ void loop() {
   
   if (measureMode){
     setResistanceAD8402(1, count); 
+    //setResistanceAD8402(1, count >> 8); 
     delay(DELAY_MEASURE);
     poop(); 
     if (digitalRead(PIN_BUTTON) == LOW){
@@ -116,12 +117,12 @@ void loop() {
       if (digitalRead(PIN_BUTTON) == LOW)
         count = 255;
     }    
-    if (resistanceMode) count++;      
+    if (resistanceMode) count++;     
+    if(count < 255)      
+      count++;
+    else 
+      count = 0; 
     sendReport();  
-    // if(count < 255)      
-    //   count++;
-    // else 
-    //   count = 0;
   }
 }
 

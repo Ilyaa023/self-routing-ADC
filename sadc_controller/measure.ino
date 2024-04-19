@@ -11,7 +11,7 @@ void poop(){
     bool isNotLastOin = i < numOfOins - 1;  
     delay(DELAY_MEASURE);
       
-    if (digitalRead(PIN_COMPORATOR) == LOW)
+    if (digitalRead(PIN_COMPORATOR) == HIGH)
       oins[i].commands[0] &= ~COM_POWER_MASK;
       // command[i] |= COM_POWER;
     Serial.write(OIN_REQUEST);
@@ -44,7 +44,7 @@ void setMeasured(){
 
 void sendReport(){
   Serial.write(255);
-  byte analog = analogRead(PIN_MEASURE)>>2; 
+  byte analog = analogRead(PIN_MEASURE); 
        
   for (int i = 7; i >= 0; i--)
     Serial.print(bitRead(count, i));
