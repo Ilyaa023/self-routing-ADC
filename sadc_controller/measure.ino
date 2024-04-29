@@ -1,6 +1,7 @@
 #include "sadc_controller.h"
 
 extern OIN oins[10];
+extern OIN allOins[10];
 
 //Runtime test
 void poop(){
@@ -49,9 +50,9 @@ void sendReport(){
   for (int i = 7; i >= 0; i--)
     Serial.print(bitRead(count, i));
     
-  // Serial.print(' ');    
+  Serial.print(' ');    
   Serial.print(measured); 
-  // Serial.print(' ');    
+  Serial.print(' ');    
                 
   for (int i = 7; i >= 0; i--)   
     Serial.print(bitRead(analog, i));
@@ -60,6 +61,13 @@ void sendReport(){
 }
 //With tests
 void resetOINs(){
+  for(int i = 1; i < numOfAllOins; i++)
+    allOins[i].commands[0] = OIN_DISABLE;//OIN_MIDDLE;      
+  for(int i = 0; i < numOfAllOins; i++){
+    Serial.write(OIN_REQUEST);
+    Serial.write(allOins[i].ID);
+    Serial.write(allOins[i].commands[0]);
+  }
   oins[0].commands[0] = OIN_HIGH;
   oins[numOfOins - 1].commands[0] = OIN_LOW;
   for(int i = 1; i < numOfOins - 1; i++)

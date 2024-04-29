@@ -1,57 +1,8 @@
 #include "sadc_controller.h"
 
-class OIN {
-  public:
-  byte ID;
-  byte commands[2];
-};
+byte i = 0;
 
-byte numOfOins = 4;
-byte ids[4] = {196, 195, 194, 193};
-OIN oins[10];
-
-byte numOfAllOins = 8;
-byte allIDs[8] = {200, 199, 198, 197, 196, 195, 194, 193};
-OIN allOins[10];
-
-byte count;
-String measured;
-
-byte measureMode = 1;
-byte resistanceMode = 1;
-
-byte i = 3;
-
-void setup() {
-  pinMode(PIN_COMPORATOR, INPUT);
-  pinMode(PIN_MEASURE, INPUT); 
-  pinMode(PIN_BUTTON, INPUT_PULLUP); 
-  pinMode(PIN_CS, OUTPUT);
-  pinMode(PIN_MOSI, OUTPUT);
-  pinMode(PIN_CLK, OUTPUT);
-
-  digitalWrite(PIN_CS, HIGH);
-  digitalWrite(PIN_MOSI, HIGH);
-  digitalWrite(PIN_CLK, HIGH);
-
-  // analogReference(EXTERNAL);  
-
-  Serial.begin(UART_SPEED);
-  Serial.setTimeout(10);
-  delay(500);
-
-  if(digitalRead(PIN_BUTTON) == LOW){
-    // implement id call by rquest id (0-255) and waiting respons on PIN_MEASURE that connected to target oin
-  } else{
-    for (byte i = 0; i < numOfOins; i++)
-      oins[i].ID = ids[i];
-    for (byte i = 0; i < numOfAllOins; i++)
-      allOins[i].ID = allIDs[i];
-  }
-  resetOINs();
-}
-
-void loop() {
+void GetMessage(){
   if (Serial.available()){
     byte error = 0;
     byte id = 0;
@@ -59,11 +10,12 @@ void loop() {
     String str = Serial.readString();
     str.toLowerCase();
 
-    if (str.startsWith("oin")){
-      id = checkOIN(str);
-      if (id == 0){
-        error = 1;
-      } else {
+    String calling = str.substring(0,3);
+    if (calling == OIN_CALLING) {
+      id = getID(str);
+      if (id == 0)
+        error = 2;
+      else {
         switch (str[i++]) {
           case 'p': {
             Serial.write(OIN_PING);
@@ -89,12 +41,12 @@ void loop() {
             break;
           }
           default: {
-            error = 1;
+            error = 3;
             break;
           }
         }
-      } 
-    } else if (str.startsWith("ard")){
+      }
+    } else if (calling == ARDUINO_CALLING) {
       switch (str[i++]){
         case 's': {
           setStartStop(str);
@@ -104,35 +56,21 @@ void loop() {
           setResistance(str);
           break;
         }
-      }
+      }   
+    } else {
+      error = 1;
     }
     if (error != 0){
+      Serial.print("Occured error: ");
+      Serial.println(error);
       Serial.print("Bad request: ");
       Serial.println(str);
     }
 
   }
-  
-  if (measureMode){
-    setResistanceAD8402(1, count); 
-    //setResistanceAD8402(1, count >> 8); 
-    delay(DELAY_MEASURE);
-    poop(); 
-    if (digitalRead(PIN_BUTTON) == LOW){
-      delay(100); 
-      if (digitalRead(PIN_BUTTON) == LOW)
-        count = 255;
-    }    
-    if (resistanceMode) count++;     
-    if(count < 255)      
-      count++;
-    else 
-      count = 0; 
-    sendReport();  
-  }
 }
 
-byte checkOIN(String str){
+byte getID(String str){
   i = 3;
   byte id = 0;
 
@@ -155,7 +93,7 @@ byte setOinTurnedTo(String str, byte id){
   Serial.write(OIN_REQUEST);
   Serial.write(id);
   if (str.length() <= i)
-    return 1;
+    return 40;
   if (str[i] == 'n') 
     Serial.write(OIN_TURN_ON);
   else if ((str[i++] == 'f') && (str.length() > i)){
@@ -163,7 +101,7 @@ byte setOinTurnedTo(String str, byte id){
       Serial.write(OIN_TURN_OFF);
   }
   else
-    return 1;
+    return 44;
   return 0;
 }
 
@@ -191,7 +129,7 @@ byte setOinOuts(String str, byte id){
       }
       default:
       // comMask = 255 & COM_OIN_PLUS2_MASK;
-        return 1;
+        return 41;
     }
     byte powMask = 0;
     switch (str[8]){
@@ -204,7 +142,7 @@ byte setOinOuts(String str, byte id){
         break;
       }
       default:
-        return 1;
+        return 42;
     }
     byte balMask = 0;
     switch (str[9]){
@@ -225,12 +163,12 @@ byte setOinOuts(String str, byte id){
         break;
       }
       default:
-        return 1;
+        return 43;
     }
     byte cmd = OIN_DISABLE | comMask | powMask | balMask;
     Serial.write(cmd);
   } else 
-    return 1;
+    return 40;
   return 0;
 }
 
@@ -241,16 +179,16 @@ byte setStartStop(String str){
     else if (str[i] == '1')
       measureMode = 1;
     else
-      return 1;
+      return 50;
   } else if (str[i] == 'r'){
-      if (str[++i] == '0')
-        resistanceMode = 0;
-      else if (str[i] == '1')
-        resistanceMode = 1;
-      else 
-        return 1;
+    if (str[++i] == '0')
+      resistanceMode = 0;
+    else if (str[i] == '1')
+      resistanceMode = 1;
+    else 
+      return 51;
   } else 
-    return 1;
+    return 40;
   return 0;
 }
 
@@ -265,8 +203,6 @@ byte setResistance(String str){
     setResistanceAD8402(1, resistance); 
   }
   else
-    return 1; 
+    return 40; 
   return 0;
 }
-
-
